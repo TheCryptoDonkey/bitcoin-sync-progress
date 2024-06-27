@@ -16,6 +16,11 @@ It displays a text-based progress bar in the console, along with the percentage 
 - `bitcoin-cli` accessible from the command line
 - A running Bitcoin node
 
+## Simple way to run from the command line
+```
+   curl -sSL https://raw.githubusercontent.com/TheCryptoDonkey/bitcoin-sync-progress/main/bitcoin_sync_progress.py | python3
+```
+
 ## Installation
 
 1. Ensure you have Python 3 installed on your system. You can check by running:
